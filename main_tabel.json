@@ -1,4 +1,4 @@
-{
+п»ї{
     "success": true,
     "glob_id": "1022",
     "sz_id": "125",
@@ -6,13 +6,13 @@
     "table_rows": [
         {
             "main_position_id": 1,
-            "main_position_str": "заведующий аптекой",
+            "main_position_str": "Р·Р°РІРµРґСѓСЋС‰РёР№ Р°РїС‚РµРєРѕР№",
             "current_position_id": 1,
-            "current_position_str": "заведующий аптекой",
+            "current_position_str": "Р·Р°РІРµРґСѓСЋС‰РёР№ Р°РїС‚РµРєРѕР№",
             "employee_id": 3617,
             "employee_phone": "380980290703",
             "employee_tin": "1234567890",
-            "employee_full_name": "Радукан Лиляна Петровна",
+            "employee_full_name": "Р Р°РґСѓРєР°РЅ Р›РёР»СЏРЅР° РџРµС‚СЂРѕРІРЅР°",
             "is_main_position": true,
             "days": [
                 {
@@ -31,13 +31,13 @@
         },
         {
             "main_position_id": 2,
-            "main_position_str": "Младшая медицинская сестра",
+            "main_position_str": "РњР»Р°РґС€Р°СЏ РјРµРґРёС†РёРЅСЃРєР°СЏ СЃРµСЃС‚СЂР°",
             "current_position_id": 2,
-            "current_position_str": "Младшая медицинская сестра",
+            "current_position_str": "РњР»Р°РґС€Р°СЏ РјРµРґРёС†РёРЅСЃРєР°СЏ СЃРµСЃС‚СЂР°",
             "employee_id": 3617,
             "employee_phone": "380980290703",
             "employee_tin": "1234567890",
-            "employee_full_name": "Радукан Лиляна Петровна",
+            "employee_full_name": "Р Р°РґСѓРєР°РЅ Р›РёР»СЏРЅР° РџРµС‚СЂРѕРІРЅР°",
             "is_main_position": false,
             "days": [
                 {

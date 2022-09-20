@@ -1,4 +1,4 @@
-{
+п»ї{
     "success": true,
     "update_timestamp": "2022-09-20 15:15",
     "points": [
@@ -8,13 +8,13 @@
             "table_rows": [
                 {
                     "main_position_id": 2,
-                    "main_position_str": "Младшая медицинская сестра",
+                    "main_position_str": "РњР»Р°РґС€Р°СЏ РјРµРґРёС†РёРЅСЃРєР°СЏ СЃРµСЃС‚СЂР°",
                     "current_position_id": 2,
-                    "current_position_str": "Младшая медицинская сестра",
+                    "current_position_str": "РњР»Р°РґС€Р°СЏ РјРµРґРёС†РёРЅСЃРєР°СЏ СЃРµСЃС‚СЂР°",
                     "employee_id": 3617,
                     "employee_phone": "380980290703",
                     "employee_tin": "1234567890",
-                    "employee_full_name": "Радукан Лиляна Петровна",
+                    "employee_full_name": "Р Р°РґСѓРєР°РЅ Р›РёР»СЏРЅР° РџРµС‚СЂРѕРІРЅР°",
                     "is_main_position": false,
                     "days": [
                         {
