@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "update_timestamp": "2022-09-20 15:15",
+    "points": [
+        {
+            "glob_id": "1022",
+            "sz_id": "125",
+            "table_rows": [
+                {
+                    "main_position_id": 2,
+                    "main_position_str": "Младшая медицинская сестра",
+                    "current_position_id": 2,
+                    "current_position_str": "Младшая медицинская сестра",
+                    "employee_id": 3617,
+                    "employee_phone": "380980290703",
+                    "employee_tin": "1234567890",
+                    "employee_full_name": "Радукан Лиляна Петровна",
+                    "is_main_position": false,
+                    "days": [
+                        {
+                            "plan": "",
+                            "fact": ""
+                        },
+                        {
+                            "plan": "8",
+                            "fact": "2"
+                        }
+                    ],
+                    "work_days_paid_absence": 0,
+                    "work_days": 15,
+                    "work_hours": 120,
+                    "work_hours_without_paid_absence": 120
+                }
+            ]
+        }
+    ]
+}
